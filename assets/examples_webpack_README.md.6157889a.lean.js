@@ -1,1 +1,0 @@
-import{_ as e,c as a,o,a as t}from"./app.aafff9a8.js";const h='{"title":"\u{1F680} Welcome to your new awesome project!","description":"","frontmatter":{},"headers":[],"relativePath":"examples/webpack/README.md","lastUpdated":1641889840041}',r={},c=t("",6),n=[c];function s(p,d,i,_,l,u){return o(),a("div",null,n)}var w=e(r,[["render",s]]);export{h as __pageData,w as default};
