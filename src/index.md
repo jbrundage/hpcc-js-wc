@@ -6,6 +6,7 @@
 * [Pie](./pie/pie)
 * [Sankey](./sankey/sankey)
 * [Treemap](./treemap/treemap)
+* [Circlepack](./circlepack/circlepack)
 
 ## Layouts
 
