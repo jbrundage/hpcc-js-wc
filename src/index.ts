@@ -1,3 +1,4 @@
+export * from "./circlepack";
 export * from "./common";
 export * from "./codemirror";
 export * from "./layouts";

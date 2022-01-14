@@ -27,6 +27,7 @@ function getComponentsSidebar() {
                 { text: "Pie", link: "/src/pie/pie" },
                 { text: "Sankey", link: "/src/sankey/sankey" },
                 { text: "Treemap", link: "/src/treemap/treemap" },
+                { text: "Circlepack", link: "/src/circlepack/circlepack" },
             ]
         },
         {
