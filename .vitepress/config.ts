@@ -21,13 +21,13 @@ function getComponentsSidebar() {
         {
             text: "Visualizations",
             children: [
+                { text: "Circle Pack", link: "/src/circlepack/circlepack" },
                 { text: "CodeMirror", link: "/src/codemirror/codemirror" },
                 { text: "Gauge", link: "/src/gauge/gauge" },
                 { text: "Observable JS", link: "/src/observable/observable" },
                 { text: "Pie", link: "/src/pie/pie" },
                 { text: "Sankey", link: "/src/sankey/sankey" },
-                { text: "Treemap", link: "/src/treemap/treemap" },
-                { text: "Circlepack", link: "/src/circlepack/circlepack" },
+                { text: "Treemap", link: "/src/treemap/treemap" }
             ]
         },
         {
