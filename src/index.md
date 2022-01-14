@@ -2,11 +2,11 @@
 
 ## Visualizations
 
+* [Circle Pack](./circlepack/circlepack)
 * [CodeMirror Editor](./codemirror/codemirror)
 * [Pie](./pie/pie)
 * [Sankey](./sankey/sankey)
 * [Treemap](./treemap/treemap)
-* [Circlepack](./circlepack/circlepack)
 
 ## Layouts
 
