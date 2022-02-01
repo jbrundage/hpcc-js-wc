@@ -2,11 +2,11 @@
 
 ## Visualizations
 
-* [Circle Pack](./circlepack/circlepack)
 * [CodeMirror Editor](./codemirror/codemirror)
 * [Gauge](./gauge/gauge)
 * [Observable JS](./observable/observable)
 * [Pie](./pie/pie)
+* [Quarter Pie](./pie/quarterpie)
 * [Sankey](./sankey/sankey)
 * [Treemap](./treemap/treemap)
 

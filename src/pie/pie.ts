@@ -144,7 +144,7 @@ export class HPCCPieElement extends HPCCSVGElement {
     private _seriesValueFormatter;
     private _seriesPercentageFormatter;
 
-    private _legacy = new SVGWidget(this);
+    protected _legacy = new SVGWidget(this);
 
     constructor() {
         super();
